@@ -1,0 +1,4 @@
+# Project exclude paths
+/item-bank-admin/target/
+/item-bank-api/target/
+/item-bank-common/target/

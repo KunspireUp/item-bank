@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/item-bank-admin/item-bank-admin.iml" filepath="$PROJECT_DIR$/item-bank-admin/item-bank-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-bank-api/item-bank-api.iml" filepath="$PROJECT_DIR$/item-bank-api/item-bank-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-bank-common/item-bank-common.iml" filepath="$PROJECT_DIR$/item-bank-common/item-bank-common.iml" />
+    </modules>
+  </component>
+</project>
